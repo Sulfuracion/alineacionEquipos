@@ -1,0 +1,33 @@
+Número: 1
+Nombre: paquito, Edad: 25, Posición: Delantero
+
+Número: 2
+Nombre: juan, Edad: 30, Posición: Centrocampista
+
+Número: 3
+Nombre: lonchas, Edad: 28, Posición: Defensor
+
+Número: 4
+Nombre: zapatin, Edad: 27, Posición: Portero
+
+Número: 5
+Nombre: cilantro, Edad: 29, Posición: Centrocampista
+
+Número: 6
+Nombre: pablito, Edad: 25, Posición: Delantero
+
+Número: 7
+Nombre: saulin, Edad: 30, Posición: Centrocampista
+
+Número: 8
+Nombre: carlos, Edad: 28, Posición: Defensor
+
+Número: 9
+Nombre: leni, Edad: 27, Posición: Portero
+
+Número: 10
+Nombre: jose, Edad: 29, Posición: Centrocampista
+
+Número: 11
+Nombre: alfredo, Edad: 29, Posición: Centrocampista
+
